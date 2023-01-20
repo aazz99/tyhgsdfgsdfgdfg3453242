@@ -6,7 +6,7 @@ TARGET_LINK = "https://rubika.ir/joing/DBDCFIEH0QAQJUPQCTQMEFOYDECLDQZE"
 #------‐-----------------------------
 guid = "g0CQAf40797704b065c9735609f10973"
 #گوید گروه رو وارد کنید
-CAPTION_VOICE = "کوپص"
+CAPTION_VOICE = "کس ننت فشار بخور"
 #قسمت CAPTION_VOICE یه کپشن دلخواه برای ویس وارد کنید.
 #------‐-----------------------------
 from libraryArsein.Arsein import *
